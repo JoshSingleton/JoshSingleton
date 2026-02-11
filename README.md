@@ -11,19 +11,19 @@ With a background in computer science, I’ve developed a strong interest in IT 
 
 | Skill                                           | Associated Project |
 |-------------------------------------------------|--------------------|
-| Ticket Creation, Triage, and Resolution         | Zendesk Help Desk Lab |
-| Incident Prioritization & Escalation            | Zendesk Help Desk Lab |
-| Professional Email-Based Technical Support      | Zendesk Help Desk Lab |
-| SLA Awareness & Ticket Lifecycle Management     | Zendesk Help Desk Lab |
-| Active Directory User & Group Administration    | Active Directory Home Lab |
-| Password Resets & Account Unlocks               | Active Directory Home Lab |
-| Organizational Unit (OU) Management             | Active Directory Home Lab |
-| Group Policy Configuration (GPO)                | Active Directory Home Lab |
-| Domain Authentication & Access Troubleshooting  | Active Directory Home Lab |
-| DNS & DHCP Configuration in Windows Server      | Active Directory Home Lab |
-| Windows Client Domain Join & Validation         | Active Directory Home Lab |
-| Virtualization with VirtualBox                  | Active Directory Home Lab |
-| IT Documentation & Change Tracking              | Active Directory Home Lab |
+| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| Active Directory User & Group Administration    | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Active Directory Home Lab</a> |
+| Password Resets & Account Unlocks               | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Organizational Unit (OU) Management             | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Group Policy Configuration (GPO)                | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Domain Authentication & Access Troubleshooting  | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| DNS & DHCP Configuration in Windows Server      | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Windows Client Domain Join & Validation         | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Virtualization with VirtualBox                  | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| IT Documentation & Change Tracking              | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 
 ## Certifications
 Currently pursuing:
