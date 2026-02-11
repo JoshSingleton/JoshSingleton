@@ -11,11 +11,7 @@ With a background in computer science, I’ve developed a strong interest in IT 
 
 | Skill                                           | Associated Project |
 |-------------------------------------------------|--------------------|
-| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| Active Directory User & Group Administration    | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Active Directory Home Lab</a> |
+| Active Directory User & Group Administration    | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | Password Resets & Account Unlocks               | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | Organizational Unit (OU) Management             | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | Group Policy Configuration (GPO)                | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
@@ -24,6 +20,10 @@ With a background in computer science, I’ve developed a strong interest in IT 
 | Windows Client Domain Join & Validation         | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | Virtualization with VirtualBox                  | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | IT Documentation & Change Tracking              | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
 
 ## Certifications
 Currently pursuing:
@@ -33,5 +33,5 @@ Currently pursuing:
 </div>
 
 ## Projects
-- Zendesk Help Desk Lab
-- Active Directory Home Lab
+- <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a>
+- <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a>
