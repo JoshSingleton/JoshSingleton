@@ -20,10 +20,10 @@ With a background in computer science, I have built a strong foundation in IT su
 | Windows Client Domain Join & Validation         | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | Virtualization with VirtualBox                  | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | IT Documentation & Change Tracking              | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
-| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simualtion</a> |
-| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a> |
-| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a> |
-| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a> |
+| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Help-Desk-Workflow-Simulation">Help Desk Workflow Simualtion</a> |
+| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Help-Desk-Workflow-Simulation">Help Desk Workflow Simulation</a> |
+| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Help-Desk-Workflow-Simulation">Help Desk Workflow Simulation</a> |
+| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Help-Desk-Workflow-Simulation">Help Desk Workflow Simulation</a> |
 
 ## Certifications
 Currently pursuing:
