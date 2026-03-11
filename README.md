@@ -34,4 +34,4 @@ Currently pursuing:
 
 ## Projects
 - <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a>
-- <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a>
+- <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Help Desk Workflow Simulation</a>
