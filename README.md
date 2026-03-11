@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-With a background in computer science, I’ve developed a strong interest in IT and cybersecurity and am actively pursuing opportunities in IT support to build hands-on experience and contribute to a team-focused environment.
+With a background in computer science, I have built a strong foundation in IT support tasks, troubleshooting, and systems administration through hands-on technical work and lab-based practice. I am seeking an IT support opportunity where I can contribute to a team environment, apply my technical skills, and continue growing in IT.
 
 ## Skills
 
@@ -20,10 +20,10 @@ With a background in computer science, I’ve developed a strong interest in IT 
 | Windows Client Domain Join & Validation         | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | Virtualization with VirtualBox                  | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 | IT Documentation & Change Tracking              | <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
-| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
-| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a> |
+| Ticket Creation, Triage, and Resolution         | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simualtion</a> |
+| Incident Prioritization & Escalation            | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a> |
+| Professional Email-Based Technical Support      | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a> |
+| SLA Awareness & Ticket Lifecycle Management     | <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a> |
 
 ## Certifications
 Currently pursuing:
@@ -34,4 +34,4 @@ Currently pursuing:
 
 ## Projects
 - <a href="https://github.com/JoshSingleton/Active-Directory-Home-Lab">Active Directory Home Lab</a>
-- <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Lab</a>
+- <a href="https://github.com/JoshSingleton/Zendesk-Help-Desk-Lab">Zendesk Help Desk Simulation</a>
